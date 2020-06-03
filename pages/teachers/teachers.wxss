@@ -1,0 +1,35 @@
+/* pages/teachers/teachers.wxss */
+.container {
+    margin-top: 20rpx;
+    width: 100%;
+    height: 800rpx;
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+.container .item {
+    margin-top: 20rpx;
+    width: 230rpx;
+    height: 300rpx;
+    background-color: #d4801f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 20rpx;
+}
+.container .item .txt {
+    color: white;
+    font-size: 24rpx;
+}
+.img {
+    margin-top: 20rpx;
+    margin-bottom: 20rpx;
+    text-align: center;
+    width: 200rpx;
+    height: 200rpx;
+    border-radius: 50%;
+    border: 5px dotted lawngreen;
+    box-sizing: border-box;
+}

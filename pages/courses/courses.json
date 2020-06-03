@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "m-course": "/components/course-list/course-list"
+  }
+}

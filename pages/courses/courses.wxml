@@ -1,0 +1,4 @@
+<!--pages/courses/courses.wxml-->
+<view wx:for="{{6}}" wx:for-index="index" wx:for-item="item" wx:key="index">
+    <m-course />
+</view>

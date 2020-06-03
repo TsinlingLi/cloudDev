@@ -1,0 +1,9 @@
+<view class="course-container">
+    <image mode="aspectFix" src="https://edu-image.nosdn.127.net/8a035eea912146139de82fad76953e8c.jpg?imageView&quality=100&crop=0_0_1200_666&thumbnail=223y124&crop=0_0_223_94"></image>
+    <view>
+        <text>Python爬虫系列-网络实战</text>
+        <text>讲师：哈课-张三</text>
+        <text>学习人数：1000人</text>
+    </view>
+</view>
+

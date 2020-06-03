@@ -1,0 +1,7 @@
+<!--pages/teachers/teachers.wxml-->
+<view  class="container">
+    <view class="item" wx:for="{{teacherObj}}" wx:key="index"  wx:for-index="key"  wx:for-item="value">
+        <image class="img" src="{{value[0]}}" mode="aspectFill"></image>
+        <text class="txt">{{value[1]}}</text>
+    </view>   
+</view>
